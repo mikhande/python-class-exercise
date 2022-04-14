@@ -1,0 +1,29 @@
+
+Animal
+-------------
++ species: string
++ types: string
++ genus: string
+----------------
++ move()
++ sleep()
++ eat()
+
+Book
+--------------
++ title: string
++ author: string
++ publisher: string
++ illustrator: string
++ ISBN: int
+
+Vehicle
+---------------
++ make: string
++ model: string
++ year: date
++ color: string
+----------------
++ drive()
++ idle()
++ brake()
